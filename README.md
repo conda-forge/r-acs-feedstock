@@ -1,11 +1,11 @@
-About r-acs
-===========
+About r-acs-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-acs-feedstock/blob/main/LICENSE.txt)
 
 Home: http://dusp.mit.edu/faculty/ezra-glenn, http://eglenn.scripts.mit.edu/citystate/, http://mailman.mit.edu/mailman/listinfo/acs-r
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-acs-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provides a general toolkit for downloading, managing, analyzing, and presenting data from the U.S. Census (<https://www.census.gov/data/developers/data-sets.html>), including SF1 (Decennial short-form), SF3 (Decennial long-form), and the American Community Survey (ACS).  Confidence intervals provided with ACS data are converted to standard errors to be bundled with estimates in complex acs objects.  Package provides new methods to conduct standard operations on acs objects and present/plot data in statistically appropriate ways.
 
